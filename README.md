@@ -1,2 +1,2 @@
 ﻿# PracticaBBDD
-Los ejercicios están en el documneto "documentos"
+Los ejercicios están en el documneto "document.sql"
